@@ -27,4 +27,4 @@ with multiple lines
 
 _Challenge:_ Add an image
 ---------------------------
-![alt text]()
+![Amy with saw]()
