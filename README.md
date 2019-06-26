@@ -1,19 +1,21 @@
 # HW_0
 ## Homework 0: Make a README.md
 
-## Create a README.md about yourself!
+### Create a README.md about yourself!
 
 Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
 
-### Multiple Headers
-### Lists  
+#### Multiple Headers
+#### Lists  
 1) Numbered lists
     * bulleted lists
         + more lists  
-        
+
+#### Emphasis
 _Emphasis_  
 __Strong emphasis__  
 
+#### Code 
 In `line` code
 
 ```bash
@@ -22,6 +24,9 @@ with multiple lines
 ```
 
 
-### [Links to websites]()
+#### [Links to websites](https://github.com)
 
-Challenge: Add an image
+
+__Challenge:__ Add an image
+---------------------------
+![alt text]()
