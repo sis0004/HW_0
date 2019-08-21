@@ -2,18 +2,17 @@
 ## Homework 0: I made a README.md about myself!
 Here I will tell you a little bit about myself and my interests.  
 
-### Sara Schreder-Gomes
-#### Geology masters student
-   ##### Unofficial title: Complete Novice at ALL Things Computer
+## Sara Schreder-Gomes
+___Geology masters student___
+
+__Unofficial title: Novice at ALL Things Computer__
+
 ----------------------  
 
 #### Fast Facts
 Hometown: _North Branch, MN_
 
 Favorite sports teams: _Green Bay Packers_ - __Go PACK Go__, _Minnesota Twins_, _Minnesota Wild_
-
-
-
 
 
 
@@ -33,18 +32,19 @@ Favorite sports teams: _Green Bay Packers_ - __Go PACK Go__, _Minnesota Twins_, 
          + *yarn, not files
       * Embroidery
       * Hiking (with the dog, too, of course)
-      * Here's a photo from a recent hike I went on in New Mexico- this one without the pup. 
+        * Here's a photo from a recent hike I went on in New Mexico- this one without the pup. Snow was abundant above 10,000' into the end of June near Taos. 
  ![SaraonWheeler](./images/Wheeler_Peak_1.jpg)
 
-#### Code 
-In `line` code  
 
+#### Code examples 
+Some `code`  within a line
+
+And some in a chunk
 ```bash
-blocks of code  
-with multiple lines  
+code code code  
+code code code code 
+code code code
 ```
-#### [Links to websites](https://amyhessl.faculty.wvu.edu/home)
 
-_Challenge:_ Add an image
----------------------------
 
+#### [Link to lab group website](https://www.kathleenbenison.com/red-earth-observatory-lab-group)
