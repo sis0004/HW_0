@@ -7,6 +7,10 @@ Please make use of as many of the `.md` formatting tools as possible.  At a mini
 ##### Geology masters student
 ----------------------  
 
+#### Fast Facts
+Hometown: _North Branch, MN_
+Favorite sports teams: 
+
 #### Interests  
    1) Academic interests
       * Sedimentology
