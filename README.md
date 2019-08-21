@@ -1,16 +1,18 @@
 # HW_0
-## Homework 0: Make a README.md about yourself!
-Tell me a little bit about yourself and your interests.  
-Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
+## Homework 0: I made a README.md about myself!
+Here I will tell you a little bit about myself and my interests.  
 
-#### Sara Schreder-Gomes
-##### Geology masters student
+### Sara Schreder-Gomes
+#### Geology masters student
+   ##### Unofficial title: Complete Novice at ALL Things Computer
 ----------------------  
 
 #### Fast Facts
 Hometown: _North Branch, MN_
 
-Favorite sports teams: _Green Bay Packers_ - __Go PACK Go__
+Favorite sports teams: _Green Bay Packers_ - __Go PACK Go__, _Minnesota Twins_, _Minnesota Wild_
+
+
 
 
 
@@ -22,7 +24,7 @@ Favorite sports teams: _Green Bay Packers_ - __Go PACK Go__
          * Fluid Inclusions in Halite 
       * Search for life on Mars
       * My research focuses on microorganisms trapped in fluid inclusions
-         * Explaination
+         * Halite forms from shallow surface water brines. During times of rapid crystallization, microorganisms can become preserved within the halite itself! 
   ![Microorganism in inclusion](./images/Fluid_Inclusion.jpg)
       
     
@@ -31,12 +33,8 @@ Favorite sports teams: _Green Bay Packers_ - __Go PACK Go__
          + *yarn, not files
       * Embroidery
       * Hiking (with the dog, too, of course)
-      * 
-            
-
-#### Recent adventures
-_Emphasis_  
-__Strong emphasis__   
+      * Here's a photo from a recent hike I went on in New Mexico- this one without the pup. 
+ ![SaraonWheeler](./images/Wheeler_Peak_1.jpg)
 
 #### Code 
 In `line` code  
@@ -49,4 +47,4 @@ with multiple lines
 
 _Challenge:_ Add an image
 ---------------------------
-![SaraonWheeler](./images/Wheeler_Peak_1.jpg)
+
