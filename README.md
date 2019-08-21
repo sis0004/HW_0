@@ -9,18 +9,32 @@ Please make use of as many of the `.md` formatting tools as possible.  At a mini
 
 #### Fast Facts
 Hometown: _North Branch, MN_
-Favorite sports teams: 
+
+Favorite sports teams: _Green Bay Packers_ - __Go PACK Go__
+
+
+
 
 #### Interests  
    1) Academic interests
       * Sedimentology
          * Evaporites
-         * Fluid Inclusions in Halite
-      * Mars exploration
-   2) 
+         * Fluid Inclusions in Halite 
+      * Search for life on Mars
+      * My research focuses on microorganisms trapped in fluid inclusions
+         * Explaination
+  ![Microorganism in inclusion](./images/Fluid_Inclusion.jpg)
+      
+    
+   2) Hobbies
+      * Knitting
+         + *yarn, not files
+      * Embroidery
+      * Hiking (with the dog, too, of course)
+      * 
             
 
-#### Recent travels
+#### Recent adventures
 _Emphasis_  
 __Strong emphasis__   
 
@@ -35,4 +49,4 @@ with multiple lines
 
 _Challenge:_ Add an image
 ---------------------------
-![Sara on Wheeler](./image/Wheeler_Peak_1.jpg)
+![SaraonWheeler](./images/Wheeler_Peak_1.jpg)
