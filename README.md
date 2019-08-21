@@ -4,15 +4,19 @@ Tell me a little bit about yourself and your interests.
 Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
 
 #### Sara Schreder-Gomes
-##### And Header Styles
+##### Geology masters student
 ----------------------  
 
-#### Lists  
-   1) Numbered lists
-      * bulleted lists
-          + more lists  
+#### Interests  
+   1) Academic interests
+      * Sedimentology
+         * Evaporites
+         * Fluid Inclusions in Halite
+      * Mars exploration
+   2) 
+            
 
-#### Emphasis
+#### Recent travels
 _Emphasis_  
 __Strong emphasis__   
 
